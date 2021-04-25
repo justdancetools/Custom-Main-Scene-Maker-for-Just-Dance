@@ -5,8 +5,8 @@ $global:ProgressPreference = 'SilentlyContinue'
 TITLE Connect Internal Tools
 mode con: cols=84 lines=32
 echo.
-echo JDConnect Internal Tools
-echo SKU converter for Just Dance Connect (v1.1)
+echo  Internal Tools
+echo SKU converter 
 echo.
 echo Connect Confidential
 echo Leaking, uploading or sharing this tool without consent from an 
