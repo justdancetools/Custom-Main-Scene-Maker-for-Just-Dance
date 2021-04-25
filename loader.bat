@@ -2,16 +2,10 @@
 SetLocal EnableDelayedExpansion
 $global:ProgressPreference = 'SilentlyContinue'
 @echo off
-TITLE Connect Internal Tools
+TITLE Custom Mainscene Creator
 mode con: cols=84 lines=32
-echo.
-echo  Internal Tools
-echo SKU converter 
-echo.
-echo Connect Confidential
-echo Leaking, uploading or sharing this tool without consent from an 
-echo administrator may get you end up removed from your role. You 
-echo can continue by following the instructions listed below! 
+echo. 
+echo You can continue by following the instructions listed below! 
 echo.
 echo ----------------------------
 echo.
